@@ -1,1 +1,10 @@
+Predict Output
+p = 4**3
+print(p)
+What will be the output of the above code snippet?
+64
 
+Predict Output
+Can you predict what will be the value of 'a' after executing the following code?
+a = 21 % 4
+1
